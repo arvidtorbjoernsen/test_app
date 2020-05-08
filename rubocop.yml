@@ -62,6 +62,12 @@ Layout/EndAlignment:
   EnforcedStyleAlignWith: variable
   AutoCorrect: true
 
+Layout/EndOfLine:
+  EnforcedStyle: crlf lf
+
+Style/EndOfLine:
+  EnforcedStyle: crlf lf
+
 Layout/EmptyLineAfterMagicComment:
   Enabled: true
 
